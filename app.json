@@ -13,7 +13,7 @@
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "TG_BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "7734877955:AAG6ECD4tfcThtEwcxvYG5nh0r8Ei4lOHHQ",
             "value": ""
         },
         "API_HASH": {
@@ -21,7 +21,7 @@
             "value": ""
         },
         "APP_ID": {
-            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "description": "542422944",
             "value": ""
         },
         "TG_USER_SESSION": {
